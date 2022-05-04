@@ -1,11 +1,8 @@
 import React from "react";
+import "./home.scss";
 
 const Home = () => {
-  return (
-    <div>
-      <h1>Home</h1>
-    </div>
-  );
+  return <div className="home">React Admin Dashboard</div>;
 };
 
 export default Home;
