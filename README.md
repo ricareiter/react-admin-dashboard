@@ -16,6 +16,7 @@ A modern looking user interactive dashboard. The perfect starting point for your
 - SCSS
 - React
 - Recharts
+- MaterialUI
 
 ## Author
 
