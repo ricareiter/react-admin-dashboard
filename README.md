@@ -6,6 +6,10 @@ A modern looking user interactive dashboard web app.
     <img src="src/components/img/react-admin-dashboard-ss.png" >
 </p>
 
+## Live Demo
+
+- [Live Demo in Netlify](https://admin-dashboard-reactapp.netlify.app/)
+
 ## Built With
 
 - Javascript
