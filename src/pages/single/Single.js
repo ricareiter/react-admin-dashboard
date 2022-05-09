@@ -1,10 +1,17 @@
 import React from "react";
 import "./single.scss";
+import Sidebar from "../../components/sidebar/Sidebar";
+import Navbar from "../../components/navbar/Navbar";
 
 const Single = () => {
   return (
-    <div>
-      <h1>Single</h1>
+    <div className="single">
+      <Sidebar />
+      <div className="singleContainer">
+        <Navbar />
+        <hr />
+        single
+      </div>
     </div>
   );
 };
