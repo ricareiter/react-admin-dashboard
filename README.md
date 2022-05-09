@@ -1,6 +1,6 @@
 # Admin Dashboard
 
-A modern looking user interactive dashboard web app.
+A modern looking user interactive dashboard. The perfect starting point for your next web application
 
 <p>
     <img src="src/components/img/react-admin-dashboard-ss.png" >
